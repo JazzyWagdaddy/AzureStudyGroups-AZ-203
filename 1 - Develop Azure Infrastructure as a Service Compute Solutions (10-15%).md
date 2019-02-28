@@ -1,7 +1,6 @@
 # AZ-203: Develop Azure Infrastructure as a Service Compute Solutions (10-15%)
 
 ## Implement solutions that use virtual machines (VM)
-* Know the basic options for provisioning a VM
 * For the disks, focus on [encryption basics and how key vault is related](https://docs.microsoft.com/en-us/azure/security/azure-security-disk-encryption-windows)
 * creating ARM templates - review the ARM templates in the [quickstart templates](https://github.com/Azure/azure-quickstart-templates/tree/master/101-vm-simple-linux)
 * Provision VMs
