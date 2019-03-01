@@ -1,5 +1,5 @@
 #Develop for Azure storage (15-20%)
-
+ 
 ## Develop solutions that use storage tables 
 Design and implement policies for tables
 Query table storage by using code
@@ -31,3 +31,5 @@ Set and retrieve properties and metadata
 * Implement data archiving and retention
     * https://docs.microsoft.com/en-us/azure/storage/blobs/storage-lifecycle-management-concepts
     * https://docs.microsoft.com/en-us/azure/storage/blobstorage-blob-immutable-storage#getting-started
+
+    
