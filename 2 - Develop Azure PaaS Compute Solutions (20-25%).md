@@ -20,7 +20,7 @@
     * [Troubleshoot an app in Azure App Service using Visual Studio](https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-dotnet-visual-studio?toc=%2fazure%2fapp-service-mobile%2ftoc.json)
 
 ## Create Azure App Service API apps 
-* Create an Azure App Service API app
+* [Create an Azure App Service API app](https://docs.microsoft.com/en-us/azure/api-management/import-and-publish)
 * Create documentation for the API by using open source and other tools
 
 ## Implement Azure functions 
