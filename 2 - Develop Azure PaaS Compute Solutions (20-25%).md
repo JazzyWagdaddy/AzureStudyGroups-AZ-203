@@ -10,15 +10,30 @@
 ## Create Azure App Service mobile apps 
 * [About Mobile Apps in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-value-prop)
 * Add push notifications for mobile apps
+    * [Add push notifications to your Android app](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-android-get-started-push)
+    * [Add Push Notifications to your iOS App](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-ios-get-started-push)
 * Enable offline sync for mobile app
+    * [Enable offline sync for your Android mobile app](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-android-get-started-offline-data)
+    * [Enable offline syncing with iOS mobile apps](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-ios-get-started-offline-data)
 * Implement a remote instrumentation strategy for mobile devices
+    * [Enable diagnostics logging for apps in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-diagnostic-logs)
+    * [Troubleshoot an app in Azure App Service using Visual Studio](https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-dotnet-visual-studio?toc=%2fazure%2fapp-service-mobile%2ftoc.json)
 
 ## Create Azure App Service API apps 
 * Create an Azure App Service API app
 * Create documentation for the API by using open source and other tools
 
 ## Implement Azure functions 
+* [An introduction to Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
 * Implement input and output bindings for a function 
 * Implement function triggers by using data operations, timers, and webhooks
+    * [Create a function triggered by Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-cosmos-db-triggered-function)
+    * [Create a function triggered by Azure Blob storage](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-storage-blob-triggered-function)
+    * [Create a function triggered by Azure Queue storage](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-storage-queue-triggered-function)
+    * [Create a function in Azure that is triggered by a timer](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-scheduled-function)
 * Implement Azure Durable Functions 
+    * [What are Durable Functions?](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview)
+    * [Durable Functions patterns and technical concepts](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-concepts)
+    * [Create your first durable function in C#](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-create-first-csharp)
 * Create Azure Function apps by using Visual Studio
+    * [Create your first function using Visual Studio](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-your-first-function-visual-studio)
