@@ -14,7 +14,7 @@
   * [Quickstart: Create Azure Resource Manager templates by using Visual Studio Code](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-quickstart-create-templates-use-visual-studio-code?tabs=CLI)
 * Configure Azure Disk Encryption for VMs
   * [Encrypt virtual disks on a Windows VM](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/encrypt-disks)
-  * [How to encrypt a Linux virtual machine in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/encrypt-disks)
+  * [How to encrypt a Linux virtual machine in Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-overview)
 
 ## Implement batch jobs by using Azure Batch Services
 * for batch jobs, focus on knowing [how to use the .NET SDK for creating jobs](https://docs.microsoft.com/en-us/azure/batch/quick-run-dotnet), setting them up, and executing.
